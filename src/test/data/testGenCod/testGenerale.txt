@@ -1,0 +1,10 @@
+int tempA;
+float tempB;
+
+tempB = 1.0 / 6;
+
+print tempB;
+
+tempA = 1 / 6;
+
+print tempA;
